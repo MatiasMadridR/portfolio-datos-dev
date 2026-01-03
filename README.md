@@ -1,9 +1,9 @@
 # Portafolio – Datos y Desarrollo de Sistemas
 
 Hola, soy **Matías Madrid**, egresado de Ingeniería en Informática (INACAP Valparaíso).  
-Mi enfoque está en **datos, BI y desarrollo de sistemas**, orientado a mejorar procesos, asegurar trazabilidad y apoyar la toma de decisiones.
+Mi perfil combina **análisis de datos, BI y desarrollo de sistemas**, con foco en mejorar procesos, asegurar trazabilidad y apoyar la toma de decisiones mediante soluciones tecnológicas.
 
-Este repositorio funciona como **portada principal** de mis proyectos.
+Este repositorio funciona como la **portada principal** de mis proyectos académicos y aplicados.
 
 ---
 
@@ -12,46 +12,53 @@ Este repositorio funciona como **portada principal** de mis proyectos.
 ### 🔬 KNOP DigitalFab – Sistema de Trazabilidad de Producción
 Proyecto de título desarrollado para **KNOP Laboratorios S.A. (Quilpué)**.
 
-Sistema interno para digitalizar planillas de fabricación de medicamentos, con énfasis en:
-- Trazabilidad por lote
+Sistema interno orientado a la digitalización de planillas de fabricación de medicamentos, con énfasis en entornos regulados y procesos críticos.
+
+**Aspectos clave:**
+- Trazabilidad completa por lote
 - Control de flujos productivos
-- Validaciones de calidad
+- Validaciones y revisión por calidad
 - Evidencia visual del sistema (BPMN + pantallas)
 
-🔗 **Repositorio:**  
+🔗 **Repositorio del proyecto:**  
 https://github.com/MatiasMadridR/knop-sistema-trazabilidad
 
 ---
 
 ## 📊 Proyectos de Datos
 
-### Big Data – Análisis y modelamiento predictivo (Spark)
-Proyecto enfocado en **procesamiento y análisis de grandes volúmenes de datos** (+8.4M registros), utilizando Apache Spark y PySpark.
+### Big Data – Análisis y modelamiento predictivo (Apache Spark)
+Proyecto enfocado en el **procesamiento y análisis de grandes volúmenes de datos** (+8.4M registros), utilizando PySpark.
 
 - Limpieza y transformación de datos
-- EDA
+- Análisis exploratorio (EDA)
 - Modelos de clasificación, regresión y clustering
+- Enfoque en escalabilidad y rendimiento
 
-🔗 **Repositorio:**  
+🔗 **Repositorio del proyecto:**  
 https://github.com/MatiasMadridR/bigdata-chicago-crime-spark
 
 ---
 
-### Dashboards y análisis BI
-- Visualización de indicadores operativos
-- Dashboards en **Power BI**
-- Análisis exploratorio y métricas de apoyo a gestión
+### 📈 Visualización y análisis BI (Power BI)
+Proyecto orientado a la **visualización de datos y análisis exploratorio**, aplicado a contextos de salud y bienestar.
 
-*(Material disponible a solicitud)*
+- Dashboards en Power BI
+- Indicadores operativos (KPI)
+- Análisis de hábitos, estrés y bienestar mental
+- Soporte para toma de decisiones en entornos comunitarios
+
+🔗 **Repositorio del proyecto:**  
+https://github.com/MatiasMadridR/visualizacion-datos-salud-rm
 
 ---
 
 ## 🛠️ Tecnologías
-Python · SQL · Power BI · Django · MySQL · MongoDB · Apache Spark · AWS (básico)
+Python · MySQL · Power BI · Django · MongoDB · Apache Spark · AWS (básico)
 
 ---
 
 ## 📫 Contacto
-- 📧 matiasmadridrojas@gmail.com  
-- 📱 +56 9 3247 9599  
-- 📍 Santiago / Viña del Mar / Illapel, Chile
+- 📧 **matiasmadridrojas@gmail.com**
+- 📱 **+56 9 3247 9599**
+- 📍 **Santiago / Viña del Mar / Illapel, Chile**
