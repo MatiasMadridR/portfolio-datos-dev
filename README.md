@@ -14,7 +14,7 @@ Mi foco es datos (BI / análisis) y desarrollo de soluciones orientadas a mejora
   Indicadores y visualización para análisis operativo.
 
 ## Tecnologías
-Python · SQL · Power BI · Django · MySQL/MongoDB · AWS (básico)
+Python · Power BI · Django · MySQL/MongoDB · AWS (básico)
 
 ## Contacto
 - Celular: +56932479599
